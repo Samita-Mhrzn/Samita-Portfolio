@@ -1,0 +1,22 @@
+body{
+    background:rgb(238, 226, 234);
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    text-shadow:5px 5px 5px grey;
+    color:rgb(103, 21, 25);
+}
+.image{
+    /* background:pink; */
+    width:auto;
+    height:auto;
+    /* border:2px solid blueviolet; */
+    display:flex;
+    gap:60px;
+    cursor:pointer;
+    justify-content:center;
+    align-items:center;
+    margin:40px 40px; 
+}
+
